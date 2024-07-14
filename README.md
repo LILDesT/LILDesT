@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dest</h1>
+<h1 align="center">Hi 👋, I'm Shamil Mazitov</h1>
 <h3 align="center">developer from Moskow, currently working as a software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lildest&label=Profile%20views&color=0e75b6&style=flat" alt="lildest" /> </p>
